@@ -5,5 +5,5 @@
 ****
 Activiti | Descriptción
 | --- | --- |
-| [Activiti_2](/Actividad_1) | ejercicio_1
+| [actividad_1](/actividad_1) | ejercicio_1
 
