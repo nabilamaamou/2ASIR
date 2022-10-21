@@ -5,6 +5,7 @@
 ****
 Activiti | Descriptción
 | --- | --- |
-| [Actividad_2](actividad_2) | ejercicio_1_Python
-| [Actividad_2](Actividad_2_script.pdf) | Trabajando con scripts
+| [Actividad_2](Actividad_2_script.pdf) | ejercicio_1_Python
+| [Actividad_2](actividad_2) | Trabajando con scripts
+
 
